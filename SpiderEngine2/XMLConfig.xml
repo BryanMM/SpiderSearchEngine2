@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<project>
+	<spider>
+		<maxthreads>5</maxthreads>
+	</spider>
+	<spider>
+		<recursivity>10</recursivity>
+	</spider>
+	<spider>
+		<reindex>10000</reindex>
+	</spider>	
+</project>
